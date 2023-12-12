@@ -1,0 +1,25 @@
+body {
+/*	margin: 0;*/
+	padding: 0;
+	display: flex;
+}
+html {
+	font-size: 20px;
+}
+h3 {
+	margin-left: 20px;
+	opacity: 0.6;
+	font-size: 2rem;
+}
+.yak:hover {
+	border-bottom: 4px solid blue;
+}
+.du {
+	border-bottom: 4px solid blue;
+}
+.se:hover {
+	border-bottom: 4px solid blue;
+}
+.chor:hover {
+	border-bottom: 4px solid blue;
+}
